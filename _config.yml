@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: jvet/resume-theme
 # favicon: images/favicon.ico
 
 # Personal info
@@ -20,12 +20,16 @@ linkedin_username: dimitri-ivanenko-24b33314
 # googleplus_username: +jekyll
 
 # About Section
-# about_title: About Me
+about_title: A propos de moi
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
 
-  * Senior System/Network Engineer 
+  * Administrateur Systèmes et Réseaux Senior. 
+  * Passioné par l'informatique et open source.
+  * Motivé, Polyvalent avec des années d'experience dans le domaine d'hébergement et de production.
+
   ___
+
 
   |:**Nationalité:** Ukrainien |:**Location:** Aubonne (Susse)  |
   |:**Permis de conduire:** EU categories A,B |:**Langues:** **ru** (Langue maternelle), **fr** (bilingue), **en** (téchnique), **un** (bilingue) |
@@ -33,25 +37,25 @@ about_content: | # this will include new lines to allow paragraphs
 
 
 # Projects Section
-# projects_title: Projects
+projects_title: Projets et Missions
 
 # Experience Section
-# experience_title: Experience
+experience_title: Expérience professionnelle
 
 # Education Section
-# educaton_title: Education
+educaton_title: Formation 
 
 # More Section
-# more_title: A Little More About Me
+more_title: Intérets et Hobbies 
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  En plus d'être passionné par l'informatique et l'électronique mes hobbies sont:
+   - Randonnée 
+   - Voyages
+   - Musées et éxpositions 
+   - Concerts et Festivals 
 
 # Footer
-footer_show_references: true
+footer_show_references: false 
 
 # Build settings
 remote_theme: sproogen/resume-theme
