@@ -4,7 +4,7 @@ repository: jvet/resume-theme
 
 # Personal info
 name: Dimitri Ivanenko
-title: Senior Network System Administrator
+title: Administrateur Systèmes et Réseaux Senior. 
 email: dimitri.ivanenko@gmail.com    
 
 # Social links
@@ -24,9 +24,9 @@ about_title: A propos de moi
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
 
-  * Administrateur Systèmes et Réseaux Senior. 
-  * Passioné par l'informatique et open source.
-  * Motivé, Polyvalent avec des années d'experience dans le domaine d'hébergement et de production.
+  * Passioné depuis toujours par l'informatique et open source.
+  * Motivé, polyvalent avec des années d'experience dans le domaine d'hébergement web et de production.
+  * Efficace, flexible, dynamique, autonome, avec une grande capacité d'adaptation et un sense des resposabilités.
 
   ___
 
