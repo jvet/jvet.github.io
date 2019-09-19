@@ -1,8 +1,28 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+  name: Provatis - Preproduction GCP Migration
+  #link: github.com/sproogen
+  #github: sproogen/resume-theme
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+   Mandat direct par Provatis SA.
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    A la demande de la société Provatis sur mon temps libre j’ai effectué la migration de leur infrastructure de préproduction depuis les serveurs et infrastructure locale vers la plateforme de GCP (Google Cloud Platform). La nouvelle infrastructure est déployée et gérée en utilisant les outils IAC opensource Terraform et Ansible aussi bien pour le déploiement initial que l’administration quotidienne. Cela permet aux développeurs d’être entièrement indépendants, d'avoir une gestion de version facile et suivie (VCS avec Git), et de déployer le nouvel environnement rapidement.
+
+
+- layout: top-middle
+  name: Euranka - GCP Analytics Statistics Platform 
+  #link: github.com/sproogen
+  #github: sproogen/resume-theme
+  quote: >
+   Mandat direct par Euranka SA.
+  description: | # this will include new lines to allow paragraphs
+    A la demande de la société Euranka sur mon temps libre. Mise en place d'une infrastructure hautement disponible pour le tracking des visiteurs de leurs sites. Les informations liées aux utilisateurs sont cruciaux pour Euranka et leurs partenaires. L’infrastructure mise en place est basée sur un cluster (Redis + Sentinel), plusieurs serveurs frontaux redondés (Nginx + Haproxy), plusieurs serveurs Mysql répliqués (Master/Slave) avec le failover automatique MHA ou manuel.
+
+
+
+- layout: top-middle
+  name: Provatis - Mise en place de la nouvelle infrastructure HA 
+  #link: github.com/sproogen
+  quote: >
+   Mandat direct par Provatis SA.
+  description: | # this will include new lines to allow paragraphs
+    A la demande de la société Provatis sur mon temps libre. Mise en place d'une infrastructure hautement disponible pour remplacer l’ancienne infrastructure de production. Mandat sur plusieurs mois à raison de 2 jours de travail par mois. Mise en place de l’infrastructure complète pour le tracking GPS. Infrastructure basée sur deux loadbalancers (Haproxy, Varnish, Keepalived, Unbound). Cluster Cassandra, Mysql Haut disponible, Cluster Tomcat. Le monitoring (Zabbix), supervision (Monit), Profiling et RTM (ELK Stack + filebeat + Syslog-ng).

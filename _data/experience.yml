@@ -2,7 +2,7 @@
   company: Virtua SA
   link: www.virtua.ch
   job_title: Network System Administrator Senior 
-  dates: Septemre 2015 - Présent
+  dates: 2015 - Présent
   quote: >
     Design des infrastructures et haute disponibilité
   description: | # this will include new lines to allow paragraphs
@@ -14,28 +14,28 @@
     - Debug de problèmes quotidiens de production.
     - Gestion de serveurs Linux (Debian, Ubuntu, Centos).
     - Gestion de serveurs Smartos/Solaris.
-    - Automatisation de déploiement et gestion de configurations (Ansible/Saltstack)
-    - Gestion des firewall et passerelles (Freebsd/Linux)
-    - Installation et maintenance des services d’agence (Gitlab/RocketChat etc)
+    - Automatisation de déploiement et gestion de configurations (Ansible/Saltstack).
+    - Gestion des firewall et passerelles (Freebsd/Linux).
+    - Installation et maintenance des services d’agence (Gitlab/RocketChat etc).
     - Formation des Sysadmins Juniors.
 
 - layout: left
   company: Virtua SA
   link: www.virtua.ch
   job_title: Network System Administrator Confirmé 
-  dates: Septemre 2011 - 2015
+  dates: 2011 - 2015
   quote: >
     Design des infrastructures et haute disponibilité
   description: | # this will include new lines to allow paragraphs
     ---
 
     **Production et service d'astreinte**
-    - Mise en place de serveurs de virtualisation KVM/Openvz 
+    - Mise en place de serveurs de virtualisation KVM/Openvz. 
     - Design d'infrastructures à haute disponibilité basées sur Corosync/Pacemaker, Varnish, Haproxy, DRBD. 
     - Design d'infrastructures clients. 
     - Administration et déploiement d'infrastructures emails Zimbra. 
     - Administration et amélioration de système de monitoring Zabbix. 
-    - Tests d’intrusion (Metasplot,Hydra, Nessus…) . 
+    - Tests d’intrusion (Metasplot,Hydra, Nessus…). 
 
     ---
 
@@ -54,14 +54,14 @@
     - Support (L1, L2) des utilisateurs et développeurs. 
     - Maintenance Système et Hardware. 
     - Installation de postes de travail. 
-    - Mise en place des backups et modernisation de l’infrastructure interne (Samba, Active Directory, Bacula, Sendmail, Postfix, Cyrus, Asterisk, Ejabberd) 
-    - Refonte des serveurs de développement internes (Subversion, Automatisation scripting bash)
+    - Mise en place des backups et modernisation de l’infrastructure interne (Samba, Active Directory, Bacula, Sendmail, Postfix, Cyrus, Asterisk, Ejabberd).
+    - Refonte des serveurs de développement internes (Subversion, Automatisation scripting bash).
 
     ---
 
     **Production et serice d'astreinte**
-    - Design et maintenance de l'infrastructure de production ( Apache, Ubuntu, Debian, Qmail, Monit, Postfix, Mysql, Postgresql, Lighttpd)
-    - Refonte de systemes de monitoring (Nagios, Zenos, Zabbix, Cacti)  
-    - Astreinte 7/7 24/24, identification des problèmes courants liés à la production (Hardware, Software, DDos, Tentatives de piratage..) 
+    - Design et maintenance de l'infrastructure de production ( Apache, Ubuntu, Debian, Qmail, Monit, Postfix, Mysql, Postgresql, Lighttpd).
+    - Refonte de systemes de monitoring (Nagios, Zenos, Zabbix, Cacti).
+    - Astreinte 7/7 24/24, identification des problèmes courants liés à la production (Hardware, Software, DDos, Tentatives de piratage..).
 
     ---

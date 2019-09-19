@@ -1,15 +1,15 @@
 - layout: top-middle
-  name: Provatis Preproduction GCP Migration
+  name: Provatis - Preproduction GCP Migration
   #link: github.com/sproogen
   #github: sproogen/resume-theme
   quote: >
    Mandat direct par Provatis SA.
   description: | # this will include new lines to allow paragraphs
-    A la demande de la société Provatis sur mon temps libre j’ai effectué la migration de leur infrastructure de préproduction depuis les serveurs et infrastructure locale vers la plateforme de GCP (Google Cloud Platform). La nouvelle infrastructure est déployée et gérée en utilisant les outils IAC opensource Terraform et Ansible aussi bien pour le déploiement initial que l’administration quotidienne. Cela permet au développeurs d’être entièrement indépendants, d'avoir une gestion de versions facile et suivie (VCS avec Git), et de déployer le nouvel environnement rapidement.
+    A la demande de la société Provatis sur mon temps libre j’ai effectué la migration de leur infrastructure de préproduction depuis les serveurs et infrastructure locale vers la plateforme de GCP (Google Cloud Platform). La nouvelle infrastructure est déployée et gérée en utilisant les outils IAC opensource Terraform et Ansible aussi bien pour le déploiement initial que l’administration quotidienne. Cela permet aux développeurs d’être entièrement indépendants, d'avoir une gestion de version facile et suivie (VCS avec Git), et de déployer le nouvel environnement rapidement.
 
 
 - layout: top-middle
-  name: Euranka GCP Analytics Statistics Platform 
+  name: Euranka - GCP Analytics Statistics Platform 
   #link: github.com/sproogen
   #github: sproogen/resume-theme
   quote: >
@@ -20,7 +20,7 @@
 
 
 - layout: top-middle
-  name: Provatis Mise en place de la nouvelle infrastructure HA 
+  name: Provatis - Mise en place de la nouvelle infrastructure HA 
   #link: github.com/sproogen
   quote: >
    Mandat direct par Provatis SA.
