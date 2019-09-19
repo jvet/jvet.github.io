@@ -9,15 +9,14 @@
     ---
 
     **Production et serice d'astreinte**
-    - Mise en place des serveurs de virtualisation/containerisation Smartos et Triton. 
-    - Debug des problémes quotidiennes de production.  
-    - Géstion des serveurs  Linux (Debian, Ubuntu, Centos). 
-    - Géstion des serveurs  Smartos/Solaris. 
-    - Automatisaion de déploiement et gestion de configuration (Ansible/Saltstack)             
-    - Géstion des firewall et passerelles (Freebsd/Linux)           
-    - Installation et maintenance des services d'agence (Gitlab/RocketChat etc)            
-    - Formation des Sysadmins Juniors.            
-
+    - Mise en place des serveurs de virtualisation/containérisation Smartos et Triton. 
+    - Debug des problèmes quotidiennes de production. 
+    - Gestion des serveurs Linux (Debian, Ubuntu, Centos). 
+    - Gestion des serveurs Smartos/Solaris. 
+    - Automatisation de déploiement et gestion de configuration (Ansible/Saltstack) 
+    - Gestion des firewall et passerelles (Freebsd/Linux) 
+    - Installation et maintenance des services d’agence (Gitlab/RocketChat etc) 
+    - Formation des Sysadmins Juniors. 
 
 
 - layout: left
@@ -31,12 +30,12 @@
     ---
 
     **Production et serice d'astreinte**
-    - Mise en place des serveurs de virtualisation KVM/Openvz
-    - Design des infratructures haute disponibles basés sur Corosync/Pacemaker, Varnish, Haproxy, DRBD 
-    - Design des infratructures clients. 
-    - Administration et déployement des infrastructures emails  Zimbra. 
-    - Administration et amélioration de systéme de monitoring Zabbix. 
-    - Tests d'intrusion (Metasplot,Hydra, Nessus...) . 
+    - Mise en place des serveurs de virtualisation KVM/Openvz 
+    - Design des infrastructures haute disponibles basés sur Corosync/Pacemaker, Varnish, Haproxy, DRBD 
+    - Design des infrastructures clients. 
+    - Administration et déploiement des infrastructures emails Zimbra. 
+    - Administration et amélioration de système de monitoring Zabbix. 
+    - Tests d’intrusion (Metasplot,Hydra, Nessus…) . 
 
     ---
 
@@ -52,17 +51,17 @@
     ---
 
     **Informatique Interne**
-    - Support (L1, L2) des utilisateurs et dévelopeurs.
-    - Maintenance Systeme et Hardware.
-    - Installation des postes de travail.
-    - Mise en place des backups et modérnisation de l'infratructure interne (Samba, Active Directory, Bacula, Sendmail, Postfix, Cyrus, Asterisk, Ejabberd)
-    - Réfonte des serveurs de dévelopement internes (Subversion, Automatisation scripting bash)  
+    - Support (L1, L2) des utilisateurs et développeurs. 
+    - Maintenance Système et Hardware. 
+    - Installation des postes de travail. 
+    - Mise en place des backups et modernisation de l’infrastructure interne (Samba, Active Directory, Bacula, Sendmail, Postfix, Cyrus, Asterisk, Ejabberd) 
+    - Refonte des serveurs de développement internes (Subversion, Automatisation scripting bash)
 
     ---
 
     **Production et serice d'astreinte**
     - Design et maintenance de l'infrastructure de production ( Apache, Ubuntu, Debian, Qmail, Monit, Postfix, Mysql, Postgresql, Lighttpd)
-    - Refonte de systeme de monitoringi (Nagios, Zenos, Zabbix, Cacti)  
-    - Astreinte 7/7 24/24, idéntification des problèmes courant lié à la production (Hardware, Software, Dos, Tentatives de piratage..) 
+    - Refonte de systeme de monitoring (Nagios, Zenos, Zabbix, Cacti)  
+    - Astreinte 7/7 24/24, identification des problèmes courant lié à la production (Hardware, Software, Dos, Tentatives de piratage..) 
 
     ---

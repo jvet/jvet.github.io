@@ -5,7 +5,8 @@
   quote: >
    Mandat direct par Provatis SA.
   description: | # this will include new lines to allow paragraphs
-    A la demande de la société Provatis sur mon temps libre j'ai effectué la migration de leur infrastrcture de préproduction depuis les serveurs et infrastructure locale vers la platforme de GCP (Google Cloud Platform). La nouvelle infratructure est déployé et gérée en utilisant les utils IAC opensource Terraform et Ansible aussi bien pour le déployement initial que l'administration quotienne. Ce qui permet au développeurs d'être entiérement indépendants, avoir une gestion de versions facile et suivi (VCS avec Git), ainsi que déployer le nouveau énvironnement rapidement. 
+    A la demande de la société Provatis sur mon temps libre j’ai effectué la migration de leur infrastructure de préproduction depuis les serveurs et infrastructure locale vers la plateforme de GCP (Google Cloud Platform). La nouvelle infrastructure est déployé et gérée en utilisant les outils IAC opensource Terraform et Ansible aussi bien pour le déploiement initial que l’administration quotidienne. Ce qui permet au développeurs d’être entièrement indépendants, avoir une gestion de versions facile et suivi (VCS avec Git), ainsi que déployer le nouveau environnement rapidement.
+
 
 - layout: top-middle
   name: Euranka GCP Analytics Statistics Platform 
@@ -14,7 +15,8 @@
   quote: >
    Mandat direct par Euranka SA.
   description: | # this will include new lines to allow paragraphs
-    A la demande de la société Euranka sur mon temps libre. Mise en place de infrastructure haute disponible pour le tracking des visiteurs de leurs sites. Les informations liés aux utilisateurs sont crutiaux pour Euranka et leurs partenaires. L'infrastructure mise en place est basée sur un cluster (Redis + Sentinel), plusieurs serveurs frontaux haut disponibles (Nginx + Haproxy), plusieurs serveurs Mysql repliqués (Master / Slave) avec le failover automatique MHA ou manuel.  
+    A la demande de la société Euranka sur mon temps libre. Mise en place de infrastructure haute disponible pour le tracking des visiteurs de leurs sites. Les informations liés aux utilisateurs sont cruciaux pour Euranka et leurs partenaires. L’infrastructure mise en place est basée sur un cluster (Redis + Sentinel), plusieurs serveurs frontaux haut disponibles (Nginx + Haproxy), plusieurs serveurs Mysql répliqués (Master / Slave) avec le failler automatique MHA ou manuel.
+
 
 
 - layout: top-middle
@@ -23,4 +25,4 @@
   quote: >
    Mandat direct par Provatis SA.
   description: | # this will include new lines to allow paragraphs
-    A la demande de la société Provatis sur mon temps libre. Mise en place de infrastructure haute disponible pour remplacer l'ancienne infratructure de production. Mandat sur plusieurs mois à raison de 2 jours de travail par mois. Mise en place de l'infrastructure complete pour le tracking GPS. Infratructure basée sur deux loadbalancers (Haproxy, Varnish, Keepalived, Unbound). Cluster Cassandra, Mysql Haut disponible, Cluster Tomcat. Le monitoring (Zabbix), supervision (Monit), Profiling et RTM (ELK Stack + filebeat + Syslog-ng).
+    A la demande de la société Provatis sur mon temps libre. Mise en place de infrastructure haute disponible pour remplacer l’ancienne infrastructure de production. Mandat sur plusieurs mois à raison de 2 jours de travail par mois. Mise en place de l’infrastructure complété pour le tracking GPS. Infrastructure basée sur deux loadbalancers (Haproxy, Varnish, Keepalived, Unbound). Cluster Cassandra, Mysql Haut disponible, Cluster Tomcat. Le monitoring (Zabbix), supervision (Monit), Profiling et RTM (ELK Stack + filebeat + Syslog-ng).
