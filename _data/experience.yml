@@ -17,6 +17,8 @@
     - Automatisation de déploiement et gestion de configurations (Ansible/Saltstack).
     - Gestion des firewall et passerelles (Freebsd/Linux).
     - Installation et maintenance des services d’agence (Gitlab/RocketChat etc).
+    - Monitoring (Prometheus)  
+    - DNS (Knot)
     - Formation des Sysadmins Juniors.
 
 - layout: left
@@ -53,6 +55,7 @@
     **Informatique Interne**
     - Support (L1, L2) des utilisateurs et développeurs. 
     - Maintenance Système et Hardware. 
+    - DNS (bind et nsd). 
     - Installation de postes de travail. 
     - Mise en place des backups et modernisation de l’infrastructure interne (Samba, Active Directory, Bacula, Sendmail, Postfix, Cyrus, Asterisk, Ejabberd).
     - Refonte des serveurs de développement internes (Subversion, Automatisation scripting bash).
