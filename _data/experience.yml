@@ -8,16 +8,16 @@
   description: | # this will include new lines to allow paragraphs
     ---
 
-    **Production et serice d'astreinte**
-    - Mise en place des serveurs de virtualisation/containérisation Smartos et Triton. 
-    - Debug des problèmes quotidiennes de production. 
-    - Gestion des serveurs Linux (Debian, Ubuntu, Centos). 
-    - Gestion des serveurs Smartos/Solaris. 
-    - Automatisation de déploiement et gestion de configuration (Ansible/Saltstack) 
-    - Gestion des firewall et passerelles (Freebsd/Linux) 
-    - Installation et maintenance des services d’agence (Gitlab/RocketChat etc) 
-    - Formation des Sysadmins Juniors. 
+    **Production et service d'astreinte**
 
+    - Mise en place des serveurs de virtualisation/conteneurisation Smartos et Triton.
+    - Debug de problèmes quotidiens de production.
+    - Gestion de serveurs Linux (Debian, Ubuntu, Centos).
+    - Gestion de serveurs Smartos/Solaris.
+    - Automatisation de déploiement et gestion de configurations (Ansible/Saltstack)
+    - Gestion des firewall et passerelles (Freebsd/Linux)
+    - Installation et maintenance des services d’agence (Gitlab/RocketChat etc)
+    - Formation des Sysadmins Juniors.
 
 - layout: left
   company: Virtua SA
@@ -29,11 +29,11 @@
   description: | # this will include new lines to allow paragraphs
     ---
 
-    **Production et serice d'astreinte**
-    - Mise en place des serveurs de virtualisation KVM/Openvz 
-    - Design des infrastructures haute disponibles basés sur Corosync/Pacemaker, Varnish, Haproxy, DRBD 
-    - Design des infrastructures clients. 
-    - Administration et déploiement des infrastructures emails Zimbra. 
+    **Production et service d'astreinte**
+    - Mise en place de serveurs de virtualisation KVM/Openvz 
+    - Design d'infrastructures à haute disponibilité basées sur Corosync/Pacemaker, Varnish, Haproxy, DRBD. 
+    - Design d'infrastructures clients. 
+    - Administration et déploiement d'infrastructures emails Zimbra. 
     - Administration et amélioration de système de monitoring Zabbix. 
     - Tests d’intrusion (Metasplot,Hydra, Nessus…) . 
 
@@ -46,14 +46,14 @@
   job_title: Network System Administrator Junior
   dates: 2008 - 2011 
   quote: >
-   Début du parcour profesionnel après les études
+   Début du parcour professionnel après les études
   description: | # this will include new lines to allow paragraphs
     ---
 
     **Informatique Interne**
     - Support (L1, L2) des utilisateurs et développeurs. 
     - Maintenance Système et Hardware. 
-    - Installation des postes de travail. 
+    - Installation de postes de travail. 
     - Mise en place des backups et modernisation de l’infrastructure interne (Samba, Active Directory, Bacula, Sendmail, Postfix, Cyrus, Asterisk, Ejabberd) 
     - Refonte des serveurs de développement internes (Subversion, Automatisation scripting bash)
 
@@ -61,7 +61,7 @@
 
     **Production et serice d'astreinte**
     - Design et maintenance de l'infrastructure de production ( Apache, Ubuntu, Debian, Qmail, Monit, Postfix, Mysql, Postgresql, Lighttpd)
-    - Refonte de systeme de monitoring (Nagios, Zenos, Zabbix, Cacti)  
-    - Astreinte 7/7 24/24, identification des problèmes courant lié à la production (Hardware, Software, Dos, Tentatives de piratage..) 
+    - Refonte de systemes de monitoring (Nagios, Zenos, Zabbix, Cacti)  
+    - Astreinte 7/7 24/24, identification des problèmes courants liés à la production (Hardware, Software, DDos, Tentatives de piratage..) 
 
     ---
