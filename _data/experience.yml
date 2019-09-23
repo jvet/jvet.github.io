@@ -48,7 +48,7 @@
   job_title: Network System Administrator Junior
   dates: 2008 - 2011 
   quote: >
-   Début du parcour professionnel après les études
+   Début du parcours professionnel après les études
   description: | # this will include new lines to allow paragraphs
     ---
 
@@ -62,7 +62,7 @@
 
     ---
 
-    **Production et serice d'astreinte**
+    **Production et service d'astreinte**
     - Design et maintenance de l'infrastructure de production ( Apache, Ubuntu, Debian, Qmail, Monit, Postfix, Mysql, Postgresql, Lighttpd).
     - Refonte de systemes de monitoring (Nagios, Zenos, Zabbix, Cacti).
     - Astreinte 7/7 24/24, identification des problèmes courants liés à la production (Hardware, Software, DDos, Tentatives de piratage..).
