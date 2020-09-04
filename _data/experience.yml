@@ -1,9 +1,37 @@
 
 - layout: left
+  company: Mindmaze SA 
+  link: www.mindmaze.ch
+  job_title: Network System Administrator Senior 
+  dates: 2020 - Présent
+  quote: >
+    Lead System Administratior 
+  description: | # this will include new lines to allow paragraphs
+
+    ---
+
+    **Administration Refonte et Maintenance de l'infrastructure et services (internes et de production), devops**
+
+    - Gestion maintenance et exploitation de l'infrastructure Docker Swarm. 
+    - Déploiement/Création/Sécurisation des containers Docker pour les besoins des développeurs. 
+    - Systèmes de fichiers distribués (Glusterfs) et systèmes de fichiers bloc répliqués (DRBD). 
+    - Gestion de serveurs Linux (Debian).
+    - Automatisation de déploiement et gestion des configurations (Ansible).
+    - Gestion des firewall et passerelles Linux et Darktrace. 
+    - Installation et maintenance des services d’agence Atlassian (Bitbuicket, Jira, Confluence).
+    - Services et serveurs de monitoring (Zabbix, Grafana, SNMP, Telegraf).
+    - Configuration et gestion des serveurs et services WEB (Apache, Nginx, Haproxy). 
+    - Installation administration et maintenance des serveurs de développement Jenkins. 
+    - Refonte de l'infrastructure Réseau et Système. 
+    - Administration maintenance des serveurs de bases de données (Postgresql, Mysql, Mongodb). 
+    - Administration des serveurs d'authentification et d'annuaires (Kerberos, Keycloak, LDAP).
+    - Haute disponibilité et clusters (Corosync/Pacemaker/Keepalived). 
+
+- layout: left
   company: Virtua SA
   link: www.virtua.ch
   job_title: Network System Administrator Senior 
-  dates: 2015 - Présent
+  dates: 2015 - 2020 
   quote: >
     Design des infrastructures et haute disponibilité
   description: | # this will include new lines to allow paragraphs
